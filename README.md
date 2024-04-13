@@ -26,8 +26,7 @@ The provided code implements the following steps:
 ## Usage
 1. Clone this repository to your local machine.
 2. Download the dataset from the provided Kaggle link and save it as "depression_dataset_reddit_cleaned.csv" in the repository folder.
-3. Install the required Python packages specified in the `requirements.txt` file.
-4. Run the provided Python script.
+3. Run the provided Python script.
 
 ## Results
 The model performance metrics, including accuracy, precision, recall, F1-score, and confusion matrix, are printed to the console after model training and evaluation.
